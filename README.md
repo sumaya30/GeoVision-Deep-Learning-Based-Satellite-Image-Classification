@@ -62,7 +62,7 @@ The trained model weights are hosted separately on Hugging Face.
 
 **Models:** [GeoVision-Satellite-Image-Classification](https://huggingface.co/sum3010/Geovision/tree/main)
 
-> Trained model weights are available upon request.
+> Trained model weights are available upon the request.
 
 ---
 
